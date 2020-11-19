@@ -1,1 +1,2 @@
 a text file
+yet another text but for master
